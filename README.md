@@ -1,4 +1,4 @@
-# H4cked-PCAP-Case-Study
+# H4cked-analysis
 
 ## Objective
 To simulate the role of a SOC analyst by investigating a network compromise scenario provided in the TryHackMe "H4cked" room. The focus is on analyzing a .pcap file to identify signs of brute-force attacks, malicious file uploads, and suspicious reverse shell activity—all without performing any offensive exploitation.
